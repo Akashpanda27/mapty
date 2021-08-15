@@ -13,6 +13,6 @@ features:
 4. Form to input distance, time,speed,elevation gain.
 5. Display workouts in a list.
 6. Display workouts on a map.
-7. stroe workouts in a browser.
+7. store workouts in a browser.
 8. On page load, read the saved data and display.
 9. Move map to workout location on click.
